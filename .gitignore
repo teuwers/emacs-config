@@ -1,0 +1,6 @@
+**/eln-cache
+**/elpa
+**/transient
+configuration.el
+custom.el
+projectile-bookmarks.eld
